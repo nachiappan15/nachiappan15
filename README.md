@@ -4,7 +4,7 @@
 
 
 ### About Me:
-![Test Image 4](https://github.com/tograh/testrepository/3DTest.png 1.7k)
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
 
 <!--
 **nachiappan15/nachiappan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
