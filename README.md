@@ -6,8 +6,6 @@
 
 <h2>Well A little about me ---</h2>
 
-
-
 ```javascript
 const Me = {
     name: "Nachiappan",
