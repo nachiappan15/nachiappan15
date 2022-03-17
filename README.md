@@ -1,8 +1,7 @@
 ![Test Image 4](https://github.com/nachiappan15/nachiappan15/blob/main/header.png)
-
-<p align="center">
+<center>
 ### Welcome to my code warehouse ...
-  </p>
+  </center>
 
 
 <!-- ### About Me: -->
