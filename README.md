@@ -4,25 +4,23 @@
 # Welcome to my code warehouse .....✌️
 
 
+## Well A little about me ---
+
+#
+
 ```javascript
-const anmol = {
+const Me = {
+    name: "Nachiappan",
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "HTML", "CSS", "C"],
+    askMeAbout: ["web dev", "tech", "web 3.0"],
     technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        backEnd:[ "Node JS" , "Express JS" ],
+        frontend: "React JS", 
+        database: "Mongo DB" 
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building Robots to ease opertations",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentFocus: "Web Application Development",
+    funFact: "No one can learn Everything , There is just a lot to learn every day"
 };
 ```
 
