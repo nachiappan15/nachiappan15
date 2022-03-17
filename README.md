@@ -5,9 +5,6 @@
 
 
 ## Well A little about me ---
-
-#
-
 ```javascript
 const Me = {
     name: "Nachiappan",
